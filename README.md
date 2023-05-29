@@ -2,13 +2,13 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/abhishek-mankame/)">
+  <a href="https://www.linkedin.com/in/sharath-p-811b00244/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/MankameAbhishek">
+  <a href="https://twitter.com/">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -26,11 +26,10 @@
 ### :man_technologist: About Me :
 
 I am a Competitive Programmer, Frontend Developer and App Developer  from India.
-- Gold #msftstudentambassadors
 -  :seedling: Exploring Technical Content Writing.
 - Tech enthusiast.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Here!-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-mankame)
-- Email:@abhishekmankame962@gmail.com
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Here!-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sharath-p-811b00244/)
+- Email:sharathpoojari456@gmail.com
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -80,4 +79,4 @@ I am a Competitive Programmer, Frontend Developer and App Developer  from India.
 ![trophy](https://github-profile-trophy.vercel.app/?username=AbhishekMankame&theme=radical)
 
 ## Snake eating my Contribution Graph!!!
-![snake gif](https://github.com/abhishekmankame/abhishekmankame/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/sharathp23/sharathp23/blob/output/github-contribution-grid-snake.gif)
